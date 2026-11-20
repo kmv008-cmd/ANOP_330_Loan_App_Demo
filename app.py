@@ -64,4 +64,4 @@ if st.button("Predict Loan Default"):
     st.bar_chart(chart_data)
 
 st.markdown("---")
-st.markdown("**Developed by Matt Bailey as a simple ML web app demo** | Powered by Streamlit")
+st.markdown("**Developed by Katherine Vice & Sophia Bardunias as a simple ML web app demo** | Powered by Streamlit")
